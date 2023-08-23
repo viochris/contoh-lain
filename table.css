@@ -1,0 +1,24 @@
+.tr{
+    background-color: gray;
+    font-weight: bold;
+}
+
+.tr:hover{
+    background-color: pink;
+}
+
+.tr1:hover{
+    background-color: aqua;
+}
+
+.tr2:hover{
+    background-color: red;
+}
+
+.tr3:hover{
+    background-color: purple;
+}
+
+.tr4:hover{
+    background-color: greenyellow;
+}
